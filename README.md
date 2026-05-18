@@ -1,7 +1,7 @@
 # 🔐 Sistem Registrasi & Login — SHA-256
 
 Tugas Mahasiswa No Urut **1–15**
-Mata Kuliah: Keamanan Jaringan
+Mata Kuliah: kriptografi
 Dosen: Desi Anggreani, S.Kom., M.T.
 
 ---
