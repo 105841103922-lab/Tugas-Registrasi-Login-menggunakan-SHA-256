@@ -29,7 +29,7 @@ Program Python sederhana yang mengimplementasikan sistem **registrasi** dan **lo
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/USERNAME/tugas-hash-sha256.git
+git clone https://github.com/105841103922-lab/Tugas-Registrasi-Login-menggunakan-SHA-256.git
 cd tugas-hash-sha256
 ```
 
