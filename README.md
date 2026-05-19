@@ -35,7 +35,7 @@ cd Tugas-Registrasi-Login-menggunakan-SHA-256
 
 ### 2. Jalankan program
 ```bash
-python app.py
+python app (1).py
 ```
 
 > ✅ **Tidak perlu install library tambahan** — hanya menggunakan `hashlib` dan `json` yang sudah built-in Python.
@@ -46,7 +46,7 @@ python app.py
 
 ```
 tugas-hash-sha256/
-├── app.py        ← Program utama
+├── app (1).py        ← Program utama
 ├── users.json    ← Database user (dibuat otomatis saat pertama kali register)
 └── README.md     ← Dokumentasi ini
 ```
