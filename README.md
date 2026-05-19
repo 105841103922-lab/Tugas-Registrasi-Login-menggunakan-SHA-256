@@ -161,4 +161,4 @@ def hash_password(password: str) -> str:
 
 ---
 
-*Tugas Pertemuan 7 — Keamanan Jaringan*
+*Tugas Pertemuan 7 — Kriptografi*
